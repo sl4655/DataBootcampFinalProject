@@ -1,5 +1,9 @@
-# DataBootcampFinalProject
+# Data_Bootcamp_Final_Project
 
   This project was completed by Shirley Liao here in partial fulfilment of ECON-UB.0232, Data Bootcamp, Spring 2018. I certify that the NYU Stern Honor Code applies to this project. In particular, I have: Clearly acknowledged the work and efforts of others when submitting written work as our own. The incorporation of the work of others–including but not limited to their ideas, data, creative expression, and  direct quotations (which should be designated with quotation  marks), or para-phrasing thereof– has been fully and appropriately referenced using notations both in the text and the bibliography. And I understand that: Submitting the same or substantially similar work in multiple courses, either in the same semesteror in a different semester, without the express approval of all instructors is strictly forbidden. I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.
   
   Project Description
+  
+  The purpose of this project is to examine the relationshp between tourism and terrorism in countries located in Western Europe from 2005 to 2016. Since terrorist attacks have been on the rise, especially in developed countries, this may chnage the perception of safety in the region, and therefore influence the number of tourists in subsequent years. The countries that will be observed are based upon the greatest number of tourists in Western Europe, which are the United Kingdom, Spain, Germany, Greece, Ireland, and France. I will extract data on the number of international arrivals in this 12 year period, as well as data on the number of terrorist attacks from these countries in the same time span. The goal is to explore the relationship between these two variables through finding the rates of change of both tourism and terrorism in Western Europe. 
+  
+  
